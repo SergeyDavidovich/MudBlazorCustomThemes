@@ -1,10 +1,9 @@
 ﻿@using MudBlazor
-@using MudBlazorCustomThemes
-
+@using MudBlazorCustomThemesDemo
+@using MudBlazorCustomThemes.BootswatchThemes
 @inherits LayoutComponentBase
 
-@* Required *@
-<MudThemeProvider IsDarkMode="@DarkMode"/>
+<MudThemeProvider IsDarkMode="@DarkMode" Theme="@theme"/>
 <MudPopoverProvider />
 
 @* Needed for dialogs *@
@@ -33,6 +32,8 @@
 @code {
     bool _drawerOpen = true;
     public bool DarkMode { get; set; }
+
+    MudTheme theme = new ThemeFlatly().Get;
 
     void DrawerToggle()
     {
