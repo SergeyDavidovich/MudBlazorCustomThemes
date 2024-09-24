@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MudBlazorCustomThemesDemo",
   "resources": {
-    "hash": "sha256-qEH/E5gentBoMMUdFyu90CrcO58j/g09vexAM8LM0nQ=",
+    "hash": "sha256-A/lz/rwGvm3z+s7MpRxK4Eq5xnXzOgXSg89aw+VFptI=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.746giovk6l.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -33,9 +33,9 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-sQ34qlxDFXKQbcyPES9llBTMgxMUB0Z75oiR+Jr1WzA=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-sLSiCKh0RQEV/2cl05tr7wOLWzExQfPZovvpqYLJduQ=",
-      "MudBlazor.wasm": "sha256-UxiGSVOgjxtOXkYEYho530XcYmh78BZo2IKcLdJPTY0=",
-      "MudblazorCustomThemes.wasm": "sha256-QtBRtBhuElr8h7w3N8PXU//07uy52mnHhusrJIcKIec=",
-      "MudBlazorCustomThemesDemo.wasm": "sha256-lqOtLXrOo+MGjDZuS/2XY9sQmGrnf+9kxMp1MimGH98=",
+      "MudBlazor.wasm": "sha256-neyrSf9GTZY+xeKf5wyh7cQvZZybNNOYgx+pe9zdjxk=",
+      "MudblazorCustomThemes.wasm": "sha256-30IHOrkBtDhyk+kcVEL9ZY4BZ0TxrlPyeYMxApRW+1M=",
+      "MudBlazorCustomThemesDemo.wasm": "sha256-oMDC963aeIxy8JvMVpnjOM4pJWhi9+Lqjuf1Qrue07U=",
       "System.Collections.Concurrent.wasm": "sha256-8JnfKnHo+yCOrqt7hKfvRfjJOIV04vwHXQ1LUzbTDJc=",
       "System.Collections.Immutable.wasm": "sha256-6BH670xrfiY9uw+WnF6aHxA/aaMUojN8yDaVFxr6l/8=",
       "System.Collections.wasm": "sha256-tOp+g2Dnb+0Jne2P26hYOAAWVkGHBiuVrdX+kC8hhU0=",
