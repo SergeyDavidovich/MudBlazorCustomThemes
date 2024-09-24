@@ -20,7 +20,7 @@ namespace MudBlazorCustomThemes.BootswatchThemes
                     {
                         Primary = Colors.Blue.Default,
                         Secondary = Colors.Green.Accent4,
-                        AppbarBackground = Colors.Orange.Default
+                        AppbarBackground = Colors.Green.Default
                     },
                     PaletteDark = new PaletteDark()
                     {
