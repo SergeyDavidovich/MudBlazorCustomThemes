@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MudBlazor;
+using MudBlazor.Utilities;
 
 namespace MudBlazorCustomThemes.BootswatchThemes
 {
@@ -14,18 +15,22 @@ namespace MudBlazorCustomThemes.BootswatchThemes
         public ThemeFlatly()
         {
             {
+                // rgb(44, 62, 80)
                 theme = new MudTheme()
                 {
                     PaletteLight = new PaletteLight()
                     {
                         Primary = Colors.Blue.Default,
                         Secondary = Colors.Green.Accent4,
-                        AppbarBackground = Colors.Green.Default
+                        AppbarBackground = "#7b8a8b"
                     },
                     PaletteDark = new PaletteDark()
                     {
                         Primary = Colors.Blue.Lighten1,
-                        AppbarBackground = Colors.BlueGray.Darken3
+                        AppbarBackground =  "#2c3e50",
+                        Background = "#212529",
+                        TextPrimary= "#dee2e6"
+
                     },
 
                     LayoutProperties = new LayoutProperties()
