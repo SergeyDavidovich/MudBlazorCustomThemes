@@ -8,7 +8,8 @@ using MudBlazor.Utilities;
 
 namespace MudBlazorCustomThemes.BootswatchThemes
 {
-    public class ThemeFlatly
+    //https://bootswatch.com/flatly/
+    public class ThemeFlatly 
     {
         MudTheme theme;
         public MudTheme Get => theme;
@@ -20,23 +21,25 @@ namespace MudBlazorCustomThemes.BootswatchThemes
                 {
                     PaletteLight = new PaletteLight()
                     {
-                        Primary = Colors.Blue.Default,
-                        Secondary = Colors.Green.Accent4,
-                        AppbarBackground = "#7b8a8b"
+                        AppbarBackground = Colors.BlueGray.Lighten1,
+                        DrawerBackground = Colors.BlueGray.Darken4,
+                        DrawerText = Colors.BlueGray.Lighten5,
+
                     },
                     PaletteDark = new PaletteDark()
                     {
-                        Primary = Colors.Blue.Lighten1,
-                        AppbarBackground =  "#2c3e50",
-                        Background = "#212529",
-                        TextPrimary= "#dee2e6"
+                        AppbarBackground = "#2c3e50",
+                        Background = "002948",
+                        DrawerBackground = Colors.BlueGray.Darken4,
+                        DrawerText = Colors.BlueGray.Lighten5,
+                        TextPrimary = "#dee2e6",
 
                     },
 
                     LayoutProperties = new LayoutProperties()
                     {
                         DrawerWidthLeft = "260px",
-                        DrawerWidthRight = "300px"
+                        DrawerWidthRight = "300px",
                     }
                 };
             }
