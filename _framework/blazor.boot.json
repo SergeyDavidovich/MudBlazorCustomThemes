@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MudBlazorCustomThemesDemo",
   "resources": {
-    "hash": "sha256-KNTPsGGez12NHNBANGUdReWsaC7qoQZz1uZ8yn1+Sw4=",
+    "hash": "sha256-8vkUqHpP45Fl6wIb0mRHt7G4LfagCeXToF0IkzFcKpI=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.746giovk6l.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -34,8 +34,8 @@
       "Microsoft.JSInterop.wasm": "sha256-sQ34qlxDFXKQbcyPES9llBTMgxMUB0Z75oiR+Jr1WzA=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-sLSiCKh0RQEV/2cl05tr7wOLWzExQfPZovvpqYLJduQ=",
       "MudBlazor.wasm": "sha256-E8MucrhqIo9j0OYzniur4Vlisk4TYOph+zgfb9vRKec=",
-      "MudblazorCustomThemes.wasm": "sha256-DmPAiaJ5twwfEPwhR3CTyLFZuEWMTC2SGl+td7vHfqk=",
-      "MudBlazorCustomThemesDemo.wasm": "sha256-OvIiaJRhvwPXYM28UoMsrmMkTFLJPZyOX0L0vwQ09XY=",
+      "MudblazorCustomThemes.wasm": "sha256-uFgDTd9uLxEngMOchx7X//Yi8Z7SYJEtp562Qjqfrck=",
+      "MudBlazorCustomThemesDemo.wasm": "sha256-QgXp+NE3aUq0/fs3/pXcuwQ+TqoXAu5agGS3rPPjSgk=",
       "System.Collections.Concurrent.wasm": "sha256-8JnfKnHo+yCOrqt7hKfvRfjJOIV04vwHXQ1LUzbTDJc=",
       "System.Collections.Immutable.wasm": "sha256-6BH670xrfiY9uw+WnF6aHxA/aaMUojN8yDaVFxr6l/8=",
       "System.Collections.wasm": "sha256-tOp+g2Dnb+0Jne2P26hYOAAWVkGHBiuVrdX+kC8hhU0=",
