@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{63D22EA5-B78C-476D-9681-92CE7DFC0AE7}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
+		public abstract class Palette.cs = public abstract class Palette.cs
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MudBlazorCustomThemesDemo", "MudBlazorCustomThemesDemo\MudBlazorCustomThemesDemo.csproj", "{1B274DAB-4C3B-4BEE-9B35-DA7999F3D713}"

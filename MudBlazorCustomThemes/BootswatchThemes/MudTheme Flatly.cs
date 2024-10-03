@@ -5,6 +5,18 @@ using System.Text;
 using System.Threading.Tasks;
 using MudBlazor;
 using MudBlazor.Utilities;
+using static MudBlazor.Colors;
+
+// public MudTheme()
+// {
+//    PaletteLight = new PaletteLight();
+//    PaletteDark = new PaletteDark();
+//    Shadows = new Shadow();
+//    Typography = new Typography();
+//    LayoutProperties = new LayoutProperties();
+//    ZIndex = new ZIndex();
+//    PseudoCss = new PseudoCss();
+// }
 
 namespace MudBlazorCustomThemes.BootswatchThemes
 {
